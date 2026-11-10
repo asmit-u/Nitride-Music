@@ -54,3 +54,21 @@ I couldn't find exactly what I wanted, so I built it myself. Now, I'm sharing it
 *Made with passion, for the love of music.*
 
 **Nitride Music © 2026**
+
+---
+
+## ✦ Sneak Peek
+
+A closer look at Nitride Music.
+
+### The Experience
+
+![Nitride Music](Screenshots/Screenshot%202026-11-10%20121843.png)
+
+### Explore Nitride Music
+
+![Nitride Music](Screenshots/Screenshot%202026-11-10%20121902.png)
+
+![Nitride Music](Screenshots/Screenshot%202026-11-10%20121927.png)
+
+![Nitride Music](Screenshots/Screenshot%202026-11-10%20122034.png)
